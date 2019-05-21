@@ -1,4 +1,4 @@
-@extends ('layouts.app', ["current" =>"home"])
+@extends ('layouts.app' , ["current" => "home"])
 
 @section('body')
  <div class="jumbotron bg light border secondary">
